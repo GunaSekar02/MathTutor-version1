@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MathTutor-version1/static/css/main.aa27b9c2.css",
+    "main.js": "/MathTutor-version1/static/js/main.554d85e8.js",
+    "static/js/787.b4e7f8ae.chunk.js": "/MathTutor-version1/static/js/787.b4e7f8ae.chunk.js",
+    "index.html": "/MathTutor-version1/index.html",
+    "main.aa27b9c2.css.map": "/MathTutor-version1/static/css/main.aa27b9c2.css.map",
+    "main.554d85e8.js.map": "/MathTutor-version1/static/js/main.554d85e8.js.map",
+    "787.b4e7f8ae.chunk.js.map": "/MathTutor-version1/static/js/787.b4e7f8ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa27b9c2.css",
+    "static/js/main.554d85e8.js"
+  ]
+}
